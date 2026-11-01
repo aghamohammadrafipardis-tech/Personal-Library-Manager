@@ -1,0 +1,16 @@
+# .NET Build Output
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User data (do NOT upload)
+users.txt
+library.csv
+
+# OS files
+.DS_Store
+Thumbs.db
