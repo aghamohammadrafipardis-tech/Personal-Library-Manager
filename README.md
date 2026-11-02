@@ -22,7 +22,7 @@ A Personal Library Management System – Final Project for Programming Course
 ## 👨‍💻 Developers
 
 - Ali Akbar Farmanara
-- Pardis AghaMohammadRafi
+- Pardis Aghamohammadrafi
 
 ## 🚀 Run
 
